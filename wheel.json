@@ -1,0 +1,480 @@
+
+[
+  {
+    "name": "FRUITY",
+    "children": [
+      {
+        "name": "BERRIES",
+        "children": [
+          {
+            "name": "raspberry",
+            "colour": "#a4e5f3"
+          },
+          {
+            "name": "strawberry",
+            "colour": "#a4e5f3"
+          }, 
+          {
+            "name": "blackberry",
+            "colour": "#a4e5f3"
+          },
+          {
+            "name": "black current",
+            "colour": "#a4e5f3"
+          }
+        ]
+      },
+      {
+        "name": "CITRUS",
+        "children": [
+          {
+            "name": "orange",
+            "colour": "#a4e5f3"
+          },
+          {
+            "name": "lemon",
+            "colour": "#a4e5f3"
+          },
+          {
+            "name": "grapefruit",
+            "colour": "#a4e5f3"
+          },
+          {
+            "name": "citrus zest",
+            "colour": "#a4e5f3"
+          }
+        ]
+      },
+      {
+        "name": "TREE FRUIT",
+        "children": [
+          {
+            "name": "green apple",
+            "colour": "#a4e5f3"
+          },
+          {
+            "name": "red apple",
+            "colour": "#a4e5f3"
+          },
+          {
+            "name": "banana",
+            "colour": "#a4e5f3"
+          },
+          {
+            "name": "peach",
+            "colour": "#a4e5f3"
+          },
+          {
+            "name": "apricot",
+            "colour": "#a4e5f3"
+          },
+          {
+            "name": "dried fruit",
+            "colour": "#a4e5f3"
+          }
+        ]
+      },
+      {
+        "name": "TROPICAL",
+        "children": [
+          {
+            "name": "melon",
+            "colour": "#a4e5f3"
+          },
+          {
+            "name": "lychee",
+            "colour": "#a4e5f3"
+          },
+          {
+            "name": "pineapple",
+            "colour": "#a4e5f3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "FLORAL", 
+    "children": [
+      {
+        "name": "jasmin",
+        "colour": "#f8fc8a"
+      },
+      {
+        "name": "lilac",
+        "colour": "#f8fc8a"
+      },
+      {
+        "name": "orchid",
+        "colour": "#f8fc8a"
+      },
+      {
+        "name": "honeysuckle",
+        "colour": "#f8fc8a"
+      },
+      {
+        "name": "cherry blossom",
+        "colour": "#f8fc8a"
+      },
+      {
+        "name": "orange blossom",
+        "colour": "#f8fc8a"
+      },
+      {
+        "name": "rose",
+        "colour": "#f8fc8a"
+      },
+      {
+        "name": "dandelion",
+        "colour": "#f8fc8a"
+      },
+      {
+        "name": "voilet",
+        "colour": "#f8fc8a"
+      },
+      {
+        "name": "geranium",
+        "colour": "#f8fc8a"
+      },
+      {
+        "name": "hopes",
+        "colour": "#f8fc8a"
+      },
+      {
+        "name": "perfume",
+        "colour": "#f8fc8a"
+      }
+    ]
+  },
+  {
+    "name": "NUTTY",
+    "children": [
+      {
+        "name": "almond",
+        "colour": "#efd27a"
+      },
+      {
+        "name": "peanut",
+        "colour": "#efd27a"
+      },
+      {
+        "name": "chestnut",
+        "colour": "#efd27a"
+      },
+      {
+        "name": "walnut",
+        "colour": "#efd27a"
+      },
+      {
+        "name": "hazelnut",
+        "colour": "#efd27a"
+      },
+      {
+        "name": "rosted nut",
+        "colour": "#efd27a"
+      }
+    ]
+  },
+  {
+    "name": "SWEET",
+    "children": [
+      {
+        "name": "honey",
+        "colour": "#f7d9f6"
+      },
+      {
+        "name": "mapple syrup",
+        "colour": "#f7d9f6"
+      },
+      {
+        "name": "chestnut",
+        "colour": "#f7d9f6"
+      },
+      {
+        "name": "malt",
+        "colour": "#f7d9f6"
+      },
+      {
+        "name": "nectar",
+        "colour": "#f7d9f6"
+      },
+      {
+        "name": "caremel",
+        "colour": "#f7d9f6"
+      },
+      {
+        "name": "molasses",
+        "colour": "#f7d9f6"
+      },
+      {
+        "name": "burnt sugar",
+        "colour": "#f7d9f6"
+      },
+      {
+        "name": "candy",
+        "colour": "#f7d9f6"
+      }
+    ]
+  },
+  {
+    "name": "SPICY",
+    "children": [
+      {
+        "name": "fennel",
+        "colour": "#e5bd6e"
+      },
+      {
+        "name": "saffron",
+        "colour": "#e5bd6e"
+      },
+      {
+        "name": "liquorice",
+        "colour": "#e5bd6e"
+      },
+      {
+        "name": "cinnamon",
+        "colour": "#e5bd6e"
+      },
+      {
+        "name": "ecualytus",
+        "colour": "#e5bd6e"
+      },
+      {
+        "name": "cardmon",
+        "colour": "#e5bd6e"
+      },
+      {
+        "name": "coriander seed",
+        "colour": "#e5bd6e"
+      },
+      {
+        "name": "white pepper",
+        "colour": "#e5bd6e"
+      },
+      {
+        "name": "black pepper",
+        "colour": "#e5bd6e"
+      },
+      {
+        "name": "vanilla",
+        "colour": "#e5bd6e"
+      },
+      {
+        "name": "menthol",
+        "colour": "#e5bd6e"
+      },
+      {
+        "name": "menthol",
+        "colour": "#e5bd6e"
+      },
+      {
+        "name": "nutmeg",
+        "colour": "#e5bd6e"
+      },
+      {
+        "name": "parsley",
+        "colour": "#e5bd6e"
+      },{
+        "name": "thyme",
+        "colour": "#e5bd6e"
+      },
+      {
+        "name": "clove",
+        "colour": "#e5bd6e"
+      },
+      {
+        "name": "cocoa",
+        "colour": "#e5bd6e"
+      }
+    ]
+  },
+  {
+    "name": "SMOKEY",
+    "children": [
+      {
+        "name": "ash",
+        "colour": "#b9cbce"
+      },
+      {
+        "name": "tar",
+        "colour": "#b9cbce"
+      },
+      {
+        "name": "smoke",
+        "colour": "#b9cbce"
+      }
+    ]
+  },
+  {
+    "name": "VIGITAL",
+    "children": [
+      {
+        "name": "GRASS",
+        "children": [
+          {
+            "name": "grass",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "freshly cut grass",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "grass seed",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "barnyard",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "stems",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "straw",
+            "colour": "#BCED91"
+          }
+        ]
+      },
+      {
+        "name": "WOOD",
+        "children": [
+          {
+            "name": "PINE",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "cedar",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "chery wood",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "green wood",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "dark wood",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "saw dust",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "camphor",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "resin",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "bark",
+            "colour": "#BCED91"
+          }
+        ]
+      },
+      {
+        "name": "EARTH",
+        "children": [
+          {
+            "name": "peat",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "moss",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "wet wood",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "wet wood",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "wet earth",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "leather",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "forest floor",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "decaying wood",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "compost",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "musty",
+            "colour": "#BCED91"
+          }
+        ]
+      },
+      {
+        "name": "MINERAL",
+        "children": [
+          {
+            "name": "metalic",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "wet rocks",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "salt",
+            "colour": "#BCED91"
+          }
+        ]
+      },
+      {
+        "name": "MARINE",
+        "children": [
+          {
+            "name": "seaweed",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "sea air",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "fish",
+            "colour": "#BCED91"
+          }
+        ]
+      },
+      {
+        "name": "VEGITABLES",
+        "children": [
+          {
+            "name": "garden peas",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "green pepper",
+            "colour": "#BCED91"
+          },
+          {
+            "name": "asparagus",
+            "colour": "#BCED91"
+          }
+        ]
+      }
+    ]
+  }
+]
+
