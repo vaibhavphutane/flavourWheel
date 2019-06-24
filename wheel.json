@@ -341,7 +341,7 @@
         "name": "WOOD",
         "children": [
           {
-            "name": "PINE",
+            "name": "pine",
             "colour": "#BCED91"
           },
           {
