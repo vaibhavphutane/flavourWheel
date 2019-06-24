@@ -1,0 +1,440 @@
+[
+    {
+        "name": "INDIA",
+        "children": [
+            {
+                "name": "BATSMEN",
+                "children": [
+                    {
+                        "name": "Rohit sharma",
+                        "colour": "#3f81f8"
+                    },
+                    {
+                        "name": "Virat Kohali (Captain)",
+                        "colour": "#3f81f8"
+                    }
+                ]
+            },
+            {
+                "name": "ALL ROUNDER",
+                "children": [
+                    {
+                        "name": "Vijay Shankar",
+                        "colour": "#3f81f8"
+                    },
+                    {
+                        "name": "Hardik Pandya",
+                        "colour": "#3f81f8"
+                    },
+                    {
+                        "name": "Kedar Jadhav",
+                        "colour": "#3f81f8"
+                    },
+                    {
+                        "name": "Ravidra Jadeja",
+                        "colour": "#3f81f8"
+                    }
+                ]
+            },
+            {
+                "name": "WICKET KEEPER",
+                "children": [
+                    {
+                        "name": "Rishab Pant",
+                        "colour": "#3f81f8"
+                    },
+                    {
+                        "name": "Lokesh Rahul",
+                        "colour": "#3f81f8"
+                    },
+                    {
+                        "name": "MS Dhoni",
+                        "colour": "#3f81f8"
+                    },
+                    {
+                        "name": "Dinesh Karthik",
+                        "colour": "#3f81f8"
+                    }
+                ]
+            },
+            {
+                "name": "BOWLER",
+                "children": [
+                    {
+                        "name": "Kuldeep Yadav",
+                        "colour": "#3f81f8"
+                    },
+                    {
+                        "name": "Mohammed Shami",
+                        "colour": "#3f81f8"
+                    },
+                    {
+                        "name": "Jasprit Bumrah",
+                        "colour": "#3f81f8"
+                    },
+                    {
+                        "name": "Bhuvneshwar Kumar",
+                        "colour": "#3f81f8"
+                    },
+                    {
+                        "name": "Yuzvendra Chahal",
+                        "colour": "#3f81f8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AUSTRALIA",
+        "children": [
+            {
+                "name": "BATSMEN",
+                "children": [
+                    {
+                        "name": "Aron Finch (Captain)",
+                        "colour": "#fbcf3f"
+                    },
+                    {
+                        "name": "David Warner",
+                        "colour": "#fbcf3f"
+                    },
+                    {
+                        "name": "Umesh Khawaja",
+                        "colour": "#fbcf3f"
+                    },
+                    {
+                        "name": "Steven Smith",
+                        "colour": "#fbcf3f"
+                    },
+                    {
+                        "name": "Shaun Marsh",
+                        "colour": "#fbcf3f"
+                    }
+                ]
+            },
+            {
+                "name": "ALL ROUNDER",
+                "children": [
+                    {
+                        "name": "Glein Maxwell",
+                        "colour": "#fbcf3f"
+                    },
+                    {
+                        "name": "Marcus Stoinis",
+                        "colour": "#fbcf3f"
+                    }
+                ]
+            },
+            {
+                "name": "WICKET KEEPER",
+                "children": [
+                    {
+                        "name": "Alex Carey",
+                        "colour": "#fbcf3f"
+                    },
+                    {
+                        "name": "",
+                        "colour": "#fbcf3f"
+                    }
+                ]
+            },
+            {
+                "name": "BOWLER",
+                "children": [
+                    {
+                        "name": "Kane Richardson",
+                        "colour": "#fbcf3f"
+                    },
+                    {
+                        "name": "Pat Cummins",
+                        "colour": "#fbcf3f"
+                    },
+                    {
+                        "name": "Nathan Coulter-Nile",
+                        "colour": "#fbcf3f"
+                    },
+                    {
+                        "name": "Michel Starc",
+                        "colour": "#fbcf3f"
+                    },
+                    {
+                        "name": "Json Behrendroff",
+                        "colour": "#fbcf3f"
+                    },
+                    {
+                        "name": "Nathan Lyon",
+                        "colour": "#fbcf3f"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ENGLAND",
+        "children": [
+            {
+                "name": "BATSMEN",
+                "children": [
+                    {
+                        "name": "Eoin Morgan (Captain)",
+                        "colour": "#5cb0d6"
+                    },
+                    {
+                        "name": "Joe Root",
+                        "colour": "#5cb0d6"
+                    },
+                    {
+                        "name": "James Vince",
+                        "colour": "#5cb0d6"
+                    },
+                    {
+                        "name": "Jsdn Roy",
+                        "colour": "#5cb0d6"
+                    }
+                ]
+            },
+            {
+                "name": "ALL ROUNDER",
+                "children": [
+                    {
+                        "name": "Ben Stokes",
+                        "colour": "#5cb0d6"
+                    },
+                    {
+                        "name": "Moin Ali",
+                        "colour": "#5cb0d6"
+                    },
+                    {
+                        "name": "Chris Woakes",
+                        "colour": "#5cb0d6"
+                    },
+                    {
+                        "name": "Tom Curran",
+                        "colour": "#5cb0d6"
+                    },
+                    {
+                        "name": "Liam Dawson",
+                        "colour": "#5cb0d6"
+                    },
+                    {
+                        "name": "Jofra Archer",
+                        "colour": "#5cb0d6"
+                    }
+                ]
+            },
+            {
+                "name": "WICKET KEEPER",
+                "children": [
+                    {
+                        "name": "Josh Bulter",
+                        "colour": "#5cb0d6"
+                    },
+                    {
+                        "name": "Jony Brairstow",
+                        "colour": "#5cb0d6"
+                    }
+                ]
+            },
+            {
+                "name": "BOWLER",
+                "children": [
+                    {
+                        "name": "Liam Plunket",
+                        "colour": "#5cb0d6"
+                    },
+                    {
+                        "name": "Ali Rashid",
+                        "colour": "#5cb0d6"
+                    },
+                    {
+                        "name": "Nathan Coulter-Nile",
+                        "colour": "#5cb0d6"
+                    },
+                    {
+                        "name": "Mark Wood",
+                        "colour": "#5cb0d6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "BANGLADESH",
+        "children": [
+            {
+                "name": "BATSMEN",
+                "children": [
+                    {
+                        "name": "Tamim Iqbal",
+                        "colour": "#5ba057"
+                    },
+                    {
+                        "name": "Soumya Sarkar",
+                        "colour": "#5ba057"
+                    },
+                    {
+                        "name": "Sabbir Rehman",
+                        "colour": "#5ba057"
+                    }
+                ]
+            },
+            {
+                "name": "ALL ROUNDER",
+                "children": [
+                    {
+                        "name": "Mahammudullah",
+                        "colour": "#5ba057"
+                    },
+                    {
+                        "name": "Mohammad Saifuddin",
+                        "colour": "#5ba057"
+                    },
+                    {
+                        "name": "Mosaddek Hossain",
+                        "colour": "#5ba057"
+                    },
+                    {
+                        "name": "Shakib Al Hasan",
+                        "colour": "#5ba057"
+                    },
+                    {
+                        "name": "Mehidy Hasan",
+                        "colour": "#5ba057"
+                    },
+                    {
+                        "name": "Jofra Archer",
+                        "colour": "#5ba057"
+                    }
+                ]
+            },
+            {
+                "name": "WICKET KEEPER",
+                "children": [
+                    {
+                        "name": "Liton Das (Keeper)",
+                        "colour": "#5ba057"
+                    },
+                    {
+                        "name": "Mushfiqur Rahim (Keeper)",
+                        "colour": "#5ba057"
+                    },
+                    {
+                        "name": "Mohammad Mithun",
+                        "colour": "#5ba057"
+                    }
+                ]
+            },
+            {
+                "name": "BOWLER",
+                "children": [
+                    {
+                        "name": "Mashrafe Mortaza (Captain)",
+                        "colour": "#5ba057"
+                    },
+                    {
+                        "name": " Rubel Hossain",
+                        "colour": "#5ba057"
+                    },
+                    {
+                        "name": "Mustafizur Rahman",
+                        "colour": "#5ba057"
+                    },
+                    {
+                        "name": "Abu Jayed",
+                        "colour": "#5ba057"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "BANGLADESH",
+        "children": [
+            {
+                "name": "BATSMEN",
+                "children": [
+                    {
+                        "name": "Tamim Iqbal",
+                        "colour": "#7b7d86"
+                    },
+                    {
+                        "name": "Soumya Sarkar",
+                        "colour": "#7b7d86"
+                    },
+                    {
+                        "name": "Sabbir Rehman",
+                        "colour": "#7b7d86"
+                    }
+                ]
+            },
+            {
+                "name": "ALL ROUNDER",
+                "children": [
+                    {
+                        "name": "Mahammudullah",
+                        "colour": "#7b7d86"
+                    },
+                    {
+                        "name": "Mohammad Saifuddin",
+                        "colour": "#7b7d86"
+                    },
+                    {
+                        "name": "Mosaddek Hossain",
+                        "colour": "#7b7d86"
+                    },
+                    {
+                        "name": "Shakib Al Hasan",
+                        "colour": "#7b7d86"
+                    },
+                    {
+                        "name": "Mehidy Hasan",
+                        "colour": "#7b7d86"
+                    },
+                    {
+                        "name": "Jofra Archer",
+                        "colour": "#7b7d86"
+                    }
+                ]
+            },
+            {
+                "name": "WICKET KEEPER",
+                "children": [
+                    {
+                        "name": "Liton Das (Keeper)",
+                        "colour": "#7b7d86"
+                    },
+                    {
+                        "name": "Mushfiqur Rahim (Keeper)",
+                        "colour": "#7b7d86"
+                    },
+                    {
+                        "name": "Mohammad Mithun",
+                        "colour": "#7b7d86"
+                    }
+                ]
+            },
+            {
+                "name": "BOWLER",
+                "children": [
+                    {
+                        "name": "Mashrafe Mortaza (Captain)",
+                        "colour": "#7b7d86"
+                    },
+                    {
+                        "name": " Rubel Hossain",
+                        "colour": "#7b7d86"
+                    },
+                    {
+                        "name": "Mustafizur Rahman",
+                        "colour": "#7b7d86"
+                    },
+                    {
+                        "name": "Abu Jayed",
+                        "colour": "#7b7d86"
+                        
+                    }
+                ]
+            }
+        ]
+    }
+]
