@@ -1,0 +1,49 @@
+@import url(./style.css);
+path {
+  stroke: #292929;
+  stroke-width: 1;
+  cursor: pointer;
+}
+
+text {
+  font: 14px sans-serif;
+  cursor: pointer;
+  font-style: bold;
+}
+
+.wheel-container {
+  width: 880px;
+  margin: 0 auto;
+  
+}
+
+h1 {
+  text-align: center;
+  margin: .5em 0;
+}
+
+p#intro {
+  text-align: center;
+  margin: 1em 0;
+}
+
+.modal-body {
+  padding: 20px;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.about-text {
+  color: #ac8117;
+  padding-left: 25px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  margin-left: -100px;
+  margin-top: -20px;
+}
